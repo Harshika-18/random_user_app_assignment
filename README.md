@@ -1,16 +1,19 @@
-# random_user_app
+# Random User App Assignment
 
-A new Flutter project.
+A Flutter app that fetches and displays random user profiles from the [Random User API](https://randomuser.me).
 
-## Getting Started
+# Features
+- Home Screen: Grid layout with user cards (profile picture, name, age, location, like button).
+- Profile Detail Screen: Large image, user info, synced like/dislike state.
+- Bonus: Heart icon animation, hero image transition, country filters, pull-to-refresh, responsive layout.
+- Architecture: Clean architecture (data, domain, presentation) with state management.
 
-This project is a starting point for a Flutter application.
+# Installation
+1. Clone the repository: `git clone https://github.com/Harshika-18/random_user_app_assignment.git`
+2. Navigate to the project: `cd random_user_app_assignment`
+3. Install dependencies: `flutter pub get`
+4. Run on Android/iOS: `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Platform Support
+- Tested on Android.
+- iOS: Built with Flutter, compatible with iOS but requires Xcode for testing/building.
