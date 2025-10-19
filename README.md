@@ -17,3 +17,7 @@ A Flutter app that fetches and displays random user profiles from the [Random Us
 # Platform Support
 - Tested on Android.
 - iOS: Built with Flutter, compatible with iOS but requires Xcode for testing/building.
+
+# Screenshots
+<image-card alt="Home Screen" src="screenshots/screenshot1.png" ></image-card>
+<image-card alt="Profile Detail" src="screenshots/screenshot2.png" ></image-card>
