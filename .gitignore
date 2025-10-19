@@ -43,3 +43,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter generated files
+*.g.dart
+*.freezed.dart
+*.config.dart
+# iOS-specific
+ios/Flutter/flutter_export_environment.sh
+ios/Runner.xcworkspace/
+ios/.symlinks/
+# Windows-specific
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
